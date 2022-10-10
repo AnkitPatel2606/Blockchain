@@ -222,7 +222,7 @@ function App() {
         </button>
         <p style={{ color: "white" }}>
           <span style={{ fontSize: "18px", fontWeight: "500", color: "white" }}>
-            Accout Address:
+            Account Address:
           </span>
           {defaultAccount}
         </p>
